@@ -1,6 +1,6 @@
-﻿token=
-owner=
-prefix=
-game=
-stayinchannel=true
+token=${db.bitch.enc}
+owner=246220920199446528
+prefix=R
+game=SAD
+stayinchannel=false
 songinstatus=true
