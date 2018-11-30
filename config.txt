@@ -1,4 +1,4 @@
-token=${db.bitch.enc}
+token="process.env.bitch"
 owner=246220920199446528
 prefix=R
 game=SAD
