@@ -1,4 +1,3 @@
-token=ENV[bitch]
 owner=246220920199446528
 prefix=R
 game=SAD
